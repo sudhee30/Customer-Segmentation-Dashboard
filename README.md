@@ -1,6 +1,3 @@
-
-Here's a README file template for the Customer Segmentation Dashboard project:
-
 Customer Segmentation Dashboard
 This Customer Segmentation Dashboard provides an interactive visualization of key sales metrics, allowing users to analyze sales patterns, customer segments, and trends over time. This tool is designed to support decision-making for sales and marketing strategies by identifying critical insights into customer behaviors and sales performance.
 
